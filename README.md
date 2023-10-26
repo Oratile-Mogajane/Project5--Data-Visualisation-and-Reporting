@@ -1,5 +1,8 @@
 # CMPG232-Project5-36450146
 
+![image](https://github.com/Oratile-Mogajane/CMPG232-Project5-36450146/assets/141177107/db4a4e65-69fc-4276-9c74-ca655eaa1253)
+
+
 Project 5 is about Data Visualiation using POWER BI to create a report for Eco Power Logistics company.
 
 HOW USER CAN USE THIS PROJECT:
