@@ -1,4 +1,4 @@
-# CMPG232-Project5-36450146
+#Project5- Data Visualisation and Monitoring
 
 ![image](https://github.com/Oratile-Mogajane/CMPG232-Project5-36450146/assets/141177107/db4a4e65-69fc-4276-9c74-ca655eaa1253)
 ![image](https://github.com/Oratile-Mogajane/CMPG232-Project5-36450146/assets/141177107/43637e00-fdc2-465a-8e2c-30121234d230)
